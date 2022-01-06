@@ -1,0 +1,57 @@
+{
+    "Name": "CAP SLEEVE MAXI GOWN",
+    "ShortSku": "091323-1126",
+    "BrandName": "NLY Eve",
+    "InStock": true,
+    "MediaUrl": "//media.nelly.com/s/nlyscandinavia/091323-1126",
+    "ColorName": "Burgundy",
+    "Description": "Maxiklänning från NLY Eve\u003cbr /\u003eDär har vi den. Drömklänningen\u003cbr /\u003eMaterial av chiffong\u003cbr /\u003ePlisserad överdel som är omlottlagd framtill\u003cbr /\u003eKort ärm\u003cbr /\u003eV-ringning framtill\u003cbr /\u003eFörsluts med dragkedja och hyska och hake baktill\u003cbr /\u003eHelfodrad",
+    "Link": "/se/kläder-för-kvinnor/kläder/festklänningar/nly-eve-1103/cap-sleeve-maxi-gown-091323-1126/",
+    "Price": "539 kr",
+    "IsDiscount": true,
+    "OrdinaryPrice": "899 kr",
+    "Discount": "40%",
+    "ClassName": "KLÄDER",
+    "GroupName": "Festklänningar",
+    "StyleName": "Maxiklänningar",
+    "ColorPickerItems": [{
+        "ShortSku": {
+            "ArticleNr": "091323",
+            "ColorId": "0300",
+            "AsString": "091323-0300"
+        },
+        "InStock": true,
+        "ProductUrl": "/se/kläder-för-kvinnor/kläder/festklänningar/nly-eve-1103/cap-sleeve-maxi-gown-091323-0300/"
+    }, {
+        "ShortSku": {
+            "ArticleNr": "091323",
+            "ColorId": "7072",
+            "AsString": "091323-7072"
+        },
+        "InStock": true,
+        "ProductUrl": "/se/kläder-för-kvinnor/kläder/festklänningar/nly-eve-1103/cap-sleeve-maxi-gown-091323-7072/"
+    }],
+    "Sizes": [{
+        "Name": "EU 34",
+        "Id": "252"
+    }, {
+        "Name": "EU 36",
+        "Id": "253"
+    }, {
+        "Name": "EU 38",
+        "Id": "254"
+    }, {
+        "Name": "EU 40",
+        "Id": "255"
+    }, {
+        "Name": "EU 42",
+        "Id": "256"
+    }],
+    "SoldOutSizes": [{
+        "Name": "EU 32",
+        "Id": "251"
+    }, {
+        "Name": "EU 44",
+        "Id": "257"
+    }]
+}
